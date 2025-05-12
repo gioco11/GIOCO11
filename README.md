@@ -8,7 +8,7 @@ I'm a cybersecurity and tech enthusiast with hands-on training from:
 ### What I'm Learning
 - Penetration Testing Fundamentlas
 - Web Application Security
-- Python, Linux, Dust
+- Python, Linux, Rust
 - HTML, Css, JavaScript
 - Network Analysis with WireShark
 - Virtual Machine & Ethical hacking Labs
